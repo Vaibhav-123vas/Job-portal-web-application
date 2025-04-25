@@ -152,5 +152,3 @@ Follow these steps to set up and run the project locally:
 * **Employers:** Use "Post New Job", view their current postings on the "Employer Dashboard", click "View" applications for a specific job, download resumes using the button, use action buttons (Mark Viewed, Shortlist, Interviewing, Make Offer, Reject via modal, Mark Hired, Mark Offer Declined) to manage candidates.
 * **Admin:** Log in using the account created via `create_admin.py`. Use the "Admin Dashboard", navigate to "Manage Jobs" to Approve/Unapprove/Delete postings, navigate to "Manage Users" to View/Edit Verification Status/Delete users.
 
-## Author
-* [Ram]
